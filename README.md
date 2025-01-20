@@ -6,12 +6,12 @@
 <br>
 •	Provided actionable insights into hotel performance, identifying trends and areas for operational improvements to (28-30%) enhance profitability and customer satisfaction
 <br>
-Analyzed hotel occupancy rates, revealing Mumbai's occupancy rate at 49.69%, providing insights into regional performance.
+•Analyzed hotel occupancy rates, revealing Mumbai's occupancy rate at 49.69%, providing insights into regional performance.
 <br>
-Conducted a comparative analysis of occupancy data between Mumbai and Delhi, highlighting Mumbai's higher occupancy compared to Delhi.
+•Conducted a comparative analysis of occupancy data between Mumbai and Delhi, highlighting Mumbai's higher occupancy compared to Delhi.
 <br>
-Identified key revenue-generating patterns, with Delhi achieving a higher revenue of ₹118,448,418 despite lower occupancy.
+•Identified key revenue-generating patterns, with Delhi achieving a higher revenue of ₹118,448,418 despite lower occupancy.
 <br>
-Utilized data visualization tools to present findings, making complex data accessible for stakeholders' decision-making.
+•Utilized data visualization tools to present findings, making complex data accessible for stakeholders' decision-making.
 <br>
-Delivered actionable insights that contributed to optimizing pricing and resource allocation strategies for better performance across regions.
+•Delivered actionable insights that contributed to optimizing pricing and resource allocation strategies for better performance across regions.
